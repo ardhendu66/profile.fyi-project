@@ -1,0 +1,1 @@
+export const loaderColor = "#1b6ea5"

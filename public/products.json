@@ -1,0 +1,394 @@
+{
+    "products": [
+        {
+            "_id": "661ebee770a5f7f2f4c045f6",
+            "name": "Apple iPhone XR",
+            "images": [
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722324813/tzhahwjcunojjf0vjamf.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722324858/qdzmkqjzhiprnnwckvm9.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722324876/t2cyeh25gqdsffhguwze.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722324898/eeanibokokkocsw5reb1.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722324915/kanviplevpbqxqdghsx7.png"
+            ],
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium cumque, temporibus dicta quas iste provident aspernatur excepturi totam quisquam enim corporis vitae harum rerum veritatis voluptatem tempore voluptas hic!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium cumque, temporibus dicta quas iste provident aspernatur excepturi totam quisquam enim corporis vitae harum rerum veritatis voluptatem tempore voluptas",
+            "price": 39799,
+            "amount": 91,
+            "__v": 0,
+            "category": "668f8af839f662de715bb4f6",
+            "categoryProperties": {
+                "Camera": "60MP",
+                "Color": "Silver",
+                "Battery": "7000mA",
+                "Processor": "A16 Bionic Chip"
+            },
+            "updatedAt": "2024-07-30T08:26:50.725Z",
+            "discountPercentage": 19,
+            "seller": "ANVPIXZSP",
+            "subCategory": "Apple iPhones"
+        },
+        {
+            "_id": "6633d11d4dc5a3f9c4eac9c9",
+            "name": "Samsung Galaxy S31",
+            "category": "668f8af839f662de715bb4f6",
+            "images": [
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325147/dsuj8u2rhqngzytpwtah.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325191/gqaxxfhsbtn5ml1ssup6.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325211/epehgegko8rnyeqeac6j.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325301/vyptlyxqoeqph9x4tiyr.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325540/pqpq16zhl4bf3r6vpoul.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325575/r2uhtfkzkqxts4uen1at.webp"
+            ],
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium cumque, temporibus dicta quas iste provident aspernatur excepturi totam quisquam enim corporis vitae harum rerum veritatis voluptatem tempore voluptas hic!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium cumque, temporibus dicta quas iste provident aspernatur excepturi totam quisquam enim corporis vitae harum rerum veritatis voluptatem tempore voluptas",
+            "price": 67000,
+            "amount": 100,
+            "categoryProperties": {
+                "Price": "₹67000",
+                "Battery": "6000mA",
+                "Camera": "50MP",
+                "Processor": "i7"
+            },
+            "__v": 0,
+            "updatedAt":  "2024-07-30T08:28:02.319Z",
+            "discountPercentage": 21,
+            "seller": "SAMPNVXIR",
+            "subCategory": "Samsung"
+        },
+        {
+            "_id": "668bf05bbabb0ecaebb3337a",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false"
+            ],
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium cumque, temporibus dicta quas iste provident aspernatur excepturi totam quisquam enim corporis vitae harum rerum veritatis voluptatem tempore voluptas hic!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium cumque, temporibus dicta quas iste provident aspernatur excepturi totam quisquam enim corporis vitae harum rerum veritatis voluptatem tempore voluptas",
+            "price": 1967,
+            "discountPercentage": 40,
+            "seller": "BORXPNZ",
+            "amount": 1786,
+            "categoryProperties": {
+                "Brand": "BOAT"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-07-30T08:03:13.667Z",
+            "__v": 0,
+            "subCategory": "Wired Headphones"
+        },
+        {
+            "_id": "6691440de34df8c2d9ecf4d8",
+            "name": "XIOAMI 14PX 5G Mobile",
+            "category": "668f8af839f662de715bb4f6",
+            "images": [
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325647/muiym8r51coyuf8dgb3a.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325660/p7ydxe5osumw2ih3jio0.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325674/u21rh68ytbdp5pqlc89w.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325693/pfp0feblyqnqaoflehtk.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325707/onkfzo7fhmkoxjxfrsbd.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722325721/z6omoqmymo02tp2hi4ly.webp"
+            ],
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium cumque, temporibus dicta quas iste provident aspernatur excepturi totam quisquam enim corporis vitae harum rerum veritatis voluptatem tempore voluptas hic!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium cumque, temporibus dicta quas iste provident aspernatur excepturi totam quisquam enim corporis vitae harum rerum veritatis voluptatem tempore voluptas hic!",
+            "price": 26799,
+            "discountPercentage": 17,
+            "seller": "NVGXIP",
+            "amount": 799,
+            "categoryProperties": {
+                "Battery": "6000mA",
+                "Processor": "i9",
+                "Color": "Silver"
+            },
+            "createdAt": "2024-07-12T14:56:13.828Z",
+            "updatedAt": "2024-07-30T08:00:54.716Z",
+            "__v": 0,
+            "subCategory": "Xioami"
+        },
+        {
+            "_id": "6693ff53e694a796fe18b367",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false"
+            ],
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi perferendis alias reprehenderit quod assumendaLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi perferendis alias reprehenderit quod assumenda",
+            "price": 2720,
+            "discountPercentage": 36,
+            "seller": "NVIZEDX",
+            "amount": 854,
+            "categoryProperties": {
+                "Color": "Charamine",
+                "Headphone-Type": "Earbuds",
+                "Connectivity-Type": "DECT",
+                "Compatable-Devices": "Mobile"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-07-30T08:03:48.033Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ff5de694a796fe18b368",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false"
+            ],
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi perferendis alias reprehenderit quod assumendaLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi perferendis alias reprehenderit quod assumenda",
+            "price": 2256,
+            "discountPercentage": 36,
+            "seller": "NVIZEDX",
+            "amount": 854,
+            "categoryProperties": {
+                "Color": "Charamine",
+                "Headphone-Type": "Earbuds",
+                "Connectivity-Type": "DECT",
+                "Compatable-Devices": "Mobile"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-07-30T08:05:22.995Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ff61e694a796fe18b369",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false"
+            ],
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi perferendis alias reprehenderit quod assumendaLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi perferendis alias reprehenderit quod assumenda",
+            "price": 2477,
+            "discountPercentage": 36,
+            "seller": "NVIZEDX",
+            "amount": 854,
+            "categoryProperties": {
+                "Color": "Charamine",
+                "Headphone-Type": "Earbuds",
+                "Connectivity-Type": "DECT",
+                "Compatable-Devices": "Mobile"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-07-30T08:05:54.335Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ff67e694a796fe18b36a",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722324813/tzhahwjcunojjf0vjamf.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722324858/qdzmkqjzhiprnnwckvm9.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722324876/t2cyeh25gqdsffhguwze.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722324898/eeanibokokkocsw5reb1.png",
+                "https://res.cloudinary.com/next-ecom-cloud/image/upload/v1722324915/kanviplevpbqxqdghsx7.png"
+            ],
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus.",
+            "price": 2360,
+            "discountPercentage": 36,
+            "seller": "NVIZEDX",
+            "amount": 854,
+            "categoryProperties": {
+                "Color": "Charamine",
+                "Headphone-Type": "Earbuds",
+                "Connectivity-Type": "DECT",
+                "Compatable-Devices": "Mobile"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-07-30T08:06:34.913Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ff6be694a796fe18b36b",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false"
+            ],
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi perferendis alias reprehenderit quod assumendaLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi perferendis alias reprehenderit quod assumenda",
+            "price": 1824,
+            "discountPercentage": 36,
+            "seller": "NVIZEDX",
+            "amount": 853,
+            "categoryProperties": {
+                "Color": "Charamine",
+                "Headphone-Type": "Earbuds",
+                "Connectivity-Type": "DECT",
+                "Compatable-Devices": "Mobile"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-08-02T18:52:21.518Z",
+            "__v": 0
+        },
+        {
+            "_id": "66a938bcb912d82ed1a92d82",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false"
+            ],
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi perferendis",
+            "price": 1824,
+            "discountPercentage": 36,
+            "seller": "NVIZEDX",
+            "amount": 854,
+            "categoryProperties": {
+                "Color": "Charamine",
+                "Headphone-Type": "Earbuds",
+                "Connectivity-Type": "DECT",
+                "Compatable-Devices": "Mobile"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-07-30T08:07:01.025Z",
+            "__v": 0
+        },
+        {
+            "_id": "66a938c9b912d82ed1a92d83",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false"
+            ],
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi perferendis alias reprehenderit quod assumendaLorem ipsum dolor sit amet consectetur",
+            "price": 1824,
+            "discountPercentage": 36,
+            "seller": "NVIZEDX",
+            "amount": 854,
+            "categoryProperties": {
+                "Color": "Charamine",
+                "Headphone-Type": "Earbuds",
+                "Connectivity-Type": "DECT",
+                "Compatable-Devices": "Mobile"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-07-30T08:07:01.025Z",
+            "__v": 0
+        },
+        {
+            "_id": "66a938d1b912d82ed1a92d84",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false"
+            ],
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi",
+            "price": 1824,
+            "discountPercentage": 36,
+            "seller": "NVIZEDX",
+            "amount": 854,
+            "categoryProperties": {
+                "Color": "Charamine",
+                "Headphone-Type": "Earbuds",
+                "Connectivity-Type": "DECT",
+                "Compatable-Devices": "Mobile"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-07-30T08:07:01.025Z",
+            "__v": 0
+        },
+        {
+            "_id": "66a938d6b912d82ed1a92d85",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false"
+            ],
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi",
+            "price": 1824,
+            "discountPercentage": 36,
+            "seller": "NVIZEDX",
+            "amount": 854,
+            "categoryProperties": {
+                "Color": "Charamine",
+                "Headphone-Type": "Earbuds",
+                "Connectivity-Type": "DECT",
+                "Compatable-Devices": "Mobile"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-07-30T08:07:01.025Z",
+            "__v": 0
+        },
+        {
+            "_id": "66a938deb912d82ed1a92d86",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false"
+            ],
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa",
+            "price": 1824,
+            "discountPercentage": 36,
+            "seller": "NVIZEDX",
+            "amount": 854,
+            "categoryProperties": {
+                "Color": "Charamine",
+                "Headphone-Type": "Earbuds",
+                "Connectivity-Type": "DECT",
+                "Compatable-Devices": "Mobile"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-07-30T08:07:01.025Z",
+            "__v": 0
+        },
+        {
+            "_id": "66a938e5b912d82ed1a92d87",
+            "name": "Boat Wireless Headphone WBR26",
+            "category": "669117c8e34df8c2d9ecf3c4",
+            "images": [
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/m/d/-original-imagzt296wgqehfb.jpeg?q=70&crop=false"
+            ],
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, expedita. Recusandae illo optio rerum assumenda adipisci, iste eaque totam eligendi nobis atque reprehenderit minima neque, placeat, facilis sunt a cum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sequi rerum eius rem aliquid culpa consequatur ipsam minus neque maxime ratione repellendus, nobis magnam, excepturi",
+            "price": 1824,
+            "discountPercentage": 36,
+            "seller": "NVIZEDX",
+            "amount": 854,
+            "categoryProperties": {
+                "Color": "Charamine",
+                "Headphone-Type": "Earbuds",
+                "Connectivity-Type": "DECT",
+                "Compatable-Devices": "Mobile"
+            },
+            "createdAt": "2024-07-08T13:22:40.455Z",
+            "updatedAt": "2024-07-30T08:07:01.025Z",
+            "__v": 0
+        }
+    ]
+}

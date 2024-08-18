@@ -1,0 +1,320 @@
+{
+  "categories": [
+    {
+      "_id": "668f8af839f662de715bb4f6",
+      "name": "Smartphones",
+      "subCategory": [
+        {
+          "name": "Samsung",
+          "properties": {
+            "Price": [
+              "₹77000",
+              "₹90000",
+              "₹67000",
+              "₹84000"
+            ],
+            "Battery": [
+              "6000mA",
+              "9000mA"
+            ],
+            "Camera": [
+              "20MP",
+              "30MP",
+              "40MP",
+              "50MP",
+              "80MP"
+            ],
+            "Processor": [
+              "i5",
+              "i7",
+              "i9",
+              "Ryzen5",
+              "Ryzen7"
+            ]
+          }
+        },
+        {
+          "name": "Apple iPhones",
+          "properties": {
+            "Camera": [
+              "20MP",
+              "30MP",
+              "40MP",
+              "50MP",
+              "60MP",
+              "80MP"
+            ],
+            "Color": [
+              "Blue",
+              "Silver",
+              "Black",
+              "Yellow",
+              "Green",
+              "Red"
+            ],
+            "Battery": [
+              "4000mA",
+              "5000mA",
+              "6000mA",
+              "7000mA"
+            ],
+            "Processor": [
+              "A10 Fusion Chip",
+              "A9 Fusion Chip",
+              "A14 Bionic Chip",
+              "A15 Bionic Chip",
+              "A16 Bionic Chip"
+            ]
+          }
+        },
+        {
+          "name": "Xioami",
+          "properties": {
+            "Color": [
+              "Black",
+              "Silver",
+              "Crimson Red",
+              "Blue"
+            ],
+            "Processor": [
+              "i3",
+              "i5",
+              "i7",
+              "Ryzen3",
+              "Ryzen5",
+              "Ryzen7"
+            ],
+            "Battery": [
+              "6500mA",
+              "7600mA"
+            ]
+          }
+        }
+      ],
+      "createdAt": "2024-07-10T20:08:52.778Z",
+      "updatedAt": "2024-07-12T12:07:01.726Z",
+      "__v": 0
+    },
+    {
+      "_id": "668eea54758fd07859bbe950",
+      "name": "Laptops",
+      "subCategory": [
+        {
+          "name": "HP Omen",
+          "properties": {
+            "Price": [
+              "77000",
+              "90000",
+              "67000",
+              "84000"
+            ],
+            "Processor": [
+              "i5",
+              "i7",
+              "i9",
+              "Ryzen5",
+              "Ryzen7"
+            ]
+          }
+        },
+        {
+          "name": "DELL Vostro",
+          "properties": {
+            "Color": [
+              "Black",
+              "Silver",
+              "Crimson Red",
+              "Blue"
+            ],
+            "Processor": [
+              "i3",
+              "i5",
+              "i7",
+              "Ryzen3",
+              "Ryzen5",
+              "Ryzen7"
+            ],
+            "Battery": [
+              "6500mA",
+              "7600mA"
+            ]
+          }
+        },
+        {
+          "name": "Macbook",
+          "properties": {
+            "Color": [
+              "Black",
+              "Silver",
+              "Crimson Red",
+              "Blue"
+            ],
+            "Processor": [
+              "i3",
+              "i5",
+              "i7",
+              "Ryzen3",
+              "Ryzen5",
+              "Ryzen7"
+            ],
+            "Battery": [
+              "6500mA",
+              "7600mA"
+            ]
+          }
+        }
+      ],
+      "createdAt": "2024-07-10T20:08:52.778Z",
+      "updatedAt": "2024-07-12T21:32:34.401Z",
+      "__v": 0
+    },
+    {
+      "_id": "669117c8e34df8c2d9ecf3c4",
+      "name": "Headphones",
+      "subCategory": [
+        {
+          "name": "Wired Headphones",
+          "properties": {
+            "Brand": [
+              "APPLE",
+              "SONY",
+              "JBL",
+              "PHILIPS",
+              "BOAT"
+            ]
+          }
+        }
+      ],
+      "createdAt": "2024-07-12T11:47:20.136Z",
+      "updatedAt": "2024-07-12T11:57:19.120Z",
+      "__v": 0
+    },
+    {
+      "_id": "669119cee34df8c2d9ecf3e9",
+      "name": "Shoe",
+      "subCategory": [
+        {
+          "name": "Covered Shoe",
+          "properties": {
+            "Brands": [
+              "Adidas",
+              "Nike",
+              "Puma"
+            ]
+          }
+        }
+      ],
+      "createdAt": "2024-07-12T11:55:58.828Z",
+      "updatedAt": "2024-07-12T11:55:58.828Z",
+      "__v": 0
+    },
+    {
+      "_id": "66929845bfb3fcddde404ef2",
+      "name": "Mouse",
+      "subCategory": [
+        {
+          "name": "genuine mouse",
+          "properties": {
+            "Color": [
+              "Blue"
+            ]
+          }
+        }
+      ],
+      "createdAt": "2024-07-13T15:07:49.782Z",
+      "updatedAt": "2024-07-13T15:07:49.782Z",
+      "__v": 0
+    },
+    {
+      "_id": "6692985fbfb3fcddde404ef6",
+      "name": "Keyboard",
+      "subCategory": [
+        {
+          "name": "Genuine Keyboard",
+          "properties": {
+            "Color": [
+              "Black"
+            ]
+          }
+        }
+      ],
+      "createdAt": "2024-07-13T15:08:15.639Z",
+      "updatedAt": "2024-07-13T15:08:15.639Z",
+      "__v": 0
+    },
+    {
+      "_id": "6692989bbfb3fcddde404efa",
+      "name": "Cloths",
+      "subCategory": [
+        {
+          "name": "Men",
+          "properties": {
+            "Size": [
+              "XS",
+              "S",
+              "M",
+              "L",
+              "XL",
+              "XXL",
+              "XXXL"
+            ]
+          }
+        }
+      ],
+      "createdAt": "2024-07-13T15:09:15.576Z",
+      "updatedAt": "2024-07-13T15:09:15.576Z",
+      "__v": 0
+    },
+    {
+      "_id": "669298cebfb3fcddde404efe",
+      "name": "Processor",
+      "subCategory": [
+        {
+          "name": "Snapdragon",
+          "properties": {
+            "Name": [
+              "877 Snapdragon"
+            ]
+          }
+        }
+      ],
+      "createdAt": "2024-07-13T15:10:06.418Z",
+      "updatedAt": "2024-07-13T15:10:06.418Z",
+      "__v": 0
+    },
+    {
+      "_id": "6692990abfb3fcddde404f02",
+      "name": "Refrigerator",
+      "subCategory": [
+        {
+          "name": "Whirlpool",
+          "properties": {
+            "Color": [
+              "Blue"
+            ]
+          }
+        }
+      ],
+      "createdAt": "2024-07-13T15:11:06.370Z",
+      "updatedAt": "2024-07-13T15:11:06.370Z",
+      "__v": 0
+    },
+    {
+      "_id": "6692996ebfb3fcddde404f06",
+      "name": "Watches",
+      "subCategory": [
+        {
+          "name": "Titan",
+          "properties": {
+            "Color": [
+              "Red"
+            ]
+          }
+        }
+      ],
+      "createdAt": "2024-07-13T15:12:46.368Z",
+      "updatedAt": "2024-07-13T15:12:46.368Z",
+      "__v": 0
+    }
+  ]
+}

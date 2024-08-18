@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100..700;1,100..700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scrollbar-width: none;
+}
+
+body,
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  scrollbar-width: none;
+}
+
+.ratings {
+  font-family: "Josefin Slab", serif;
+}
+
+/* Slider-Carousel Style */
+.slick-slide > div {
+  margin: 0 10px;
+}
+.slick-arrow.slick-next,
+.slick-arrow.slick-prev {
+  background-color: white;
+  color: black;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  opacity: 0.8;
+  z-index: 10;
+  padding: 10px;
+}
+.slick-arrow.slick-next:hover,
+.slick-arrow.slick-prev:hover {
+  background-color: white;
+  color: black;
+  opacity: 10;
+}
+.slick-prev::before,
+.slick-next::before {
+  display: none;
+}
+.arrows {
+  height: 28px;
+  width: 28px;
+  margin: 1px;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.added-to-cart {
+  animation: bounce 0.5s ease;
+}
