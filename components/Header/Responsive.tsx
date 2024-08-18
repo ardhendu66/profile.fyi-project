@@ -1,7 +1,6 @@
 import { useContext, Dispatch, SetStateAction } from "react";
 import Link from "next/link";
 import { CartContextType, CartContext } from "@/Context/CartContext";
-import ProfileDropdown from "@/components/profile/Dropdown";
 import { IoMdCart } from "react-icons/io";
 import { FaBars } from "react-icons/fa6";
 
